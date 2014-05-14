@@ -16,14 +16,11 @@
 	<files>
 		<filename module="mod_tags_child">mod_tags_child.php</filename>
 		<folder>tmpl</folder>
+		<folder>language</folder>
 		<filename>helper.php</filename>
 		<filename>index.html</filename>
 		<filename>mod_tags_child.xml</filename>
 	</files>
-	<languages>
-		<language tag="en-GB">en-GB.mod_tags_child.ini</language>
-		<language tag="en-GB">en-GB.mod_tags_child.sys.ini</language>
-	</languages>
 	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_TAGS_CHILD" />
 	<config>
 		<fields name="params">
